@@ -1,0 +1,3 @@
+[submodule "nodejs16.x/ts-github-actions"]
+	path = nodejs16.x/ts-github-actions
+	url = https://github.com/SodaDev/sam-templates-ts.git
